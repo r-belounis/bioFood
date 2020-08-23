@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Simple Shop App Test (React + Redux + Redux Saga + Express + MongoDB)
 
 **Storytelling :**

@@ -1,5 +1,7 @@
 ## Simple Shop App Test (React + Redux + Redux Saga + Express + MongoDB)
 
+### Project is still in development
+
 **Storytelling :**
 bioFood is a (fake obviously) online shop which sells short food circuits products which are only available through the shop.
 

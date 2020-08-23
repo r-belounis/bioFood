@@ -1,6 +1,6 @@
 ## Simple Shop App Test (React + Redux + Redux Saga + Express + MongoDB)
 
-### Project is still in development
+## Project is still in development
 
 **Storytelling :**
 bioFood is a (fake obviously) online shop which sells short food circuits products which are only available through the shop.
@@ -19,6 +19,10 @@ For starting this project, better thing to do is ***clone this repository*** to 
 
 See below the cli commands for starting each ones.
 
+### `npm i`
+
+Next step is to download with this command, the necessary files to run the project.
+
 ### `npm start or yarn start`
 
 The front is the same as in ***create-react-app***, go check the cli commands here is needed :</br>[create-react-app](https://github.com/facebook/create-react-app)
@@ -33,3 +37,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Runs the server api in the development mode.<br />
 Open [http://localhost:9000](http://localhost:9000) to view it in the browser.
+
+Also at [http://localhost:9000/food](http://localhost:9000/food) you can check the product API. Coming gracefuly from [The Open Food Repo](https://www.foodrepo.org/).

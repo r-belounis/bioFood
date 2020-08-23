@@ -23,6 +23,8 @@ See below the cli commands for starting each ones.
 
 Next step is to download with this command, the necessary files to run the project.
 
+*** You can run the server and the front directly from the client folder *** (so there's no need to run separately the server and the front from each folders, high five :raised_hand:)
+
 ### `npm start or yarn start`
 
 The front is the same as in ***create-react-app***, go check the cli commands here is needed :</br>[create-react-app](https://github.com/facebook/create-react-app)

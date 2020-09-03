@@ -1,4 +1,4 @@
-# Simple Shop App Test (React + Redux + Redux Saga + Express + MongoDB)
+# Simple Shop App Test (React + Redux + Redux Thunk + Express + MongoDB)
 
 ## Project is still in development
 

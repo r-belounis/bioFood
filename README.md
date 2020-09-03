@@ -7,7 +7,7 @@ bioFood is a (fake obviously) online shop which sells short food circuits produc
 
 ### The stack
 
-The project uses in front ***react/redux/redux-saga*** (for middleware), and ***express/mongoDB*** for back and database.
+The project uses in front ***react/redux/redux-thunk*** (for middleware), and ***express/mongoDB*** for back and database.
 
 The project was created with [create-react-app](https://github.com/facebook/create-react-app) and [express-generator](https://expressjs.com/fr/starter/generator.html)
 
